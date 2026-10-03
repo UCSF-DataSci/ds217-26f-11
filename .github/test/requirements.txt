@@ -1,2 +1,0 @@
-# Test runner for the automatic GitHub Actions checks.
-pytest>=8,<9
